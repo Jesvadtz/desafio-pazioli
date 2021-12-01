@@ -238,6 +238,14 @@
     font-weight: bold;
 }
 
+#btnsend1:hover {
+    background-color: #868686;
+}
+
+#btnsend1:active {
+    background-color: #000000;
+}
+
 
 
 
