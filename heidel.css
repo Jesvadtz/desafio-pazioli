@@ -40,6 +40,7 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    align-items: center;
 }
 
 #p1 {
@@ -111,10 +112,18 @@
     #socials img {
         display: none;
     }
+
+    #img2 {
+        width: 60%;
+    }
 }
 
 @media screen and (min-width: 768px)  {
     #p2 {
         font-size: 56px;
+    }
+
+    #img2 {
+        width: 50%;
     }
 }
