@@ -175,6 +175,8 @@
     height: 36px;
     width: 288px;
     margin-bottom: 25px;
+    color: #fff;
+    padding: 10px;
 }
 
 #input2 {
@@ -185,6 +187,8 @@
     height: 36px;
     width: 288px;
     margin-bottom: 25px;
+    color: #fff;
+    padding: 10px;
 }
 
 #input3 {
@@ -194,7 +198,9 @@
     border: solid #fff;
     height: 36px;
     width: 288px;
-    margin-bottom: 25px; 
+    margin-bottom: 25px;
+    color: #fff;
+    padding: 10px; 
 }
 
 #input4 {
@@ -205,6 +211,10 @@
     height: 192px;
     width: 288px;
     margin-bottom: 25px;
+    color: #fff;
+    padding: 10px;
+    padding-bottom: 150px;
+    text-align: left;
 }
 
 /* background Image */
@@ -236,6 +246,14 @@
     border: none;
     border-radius: 8px;
     font-weight: bold;
+}
+
+#btnsend1:hover {
+    background-color: #868686;
+}
+
+#btnsend1:active {
+    background-color: #000000;
 }
 
 
