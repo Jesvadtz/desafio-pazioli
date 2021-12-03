@@ -128,8 +128,21 @@ button {
   letter-spacing: 0.1rem;
 }
 
+button:hover {
+  background-color: #868686;
+}
+
+.verMas {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
 #containerCards {
-  margin: 4rem 0;
+  margin: 2rem 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
